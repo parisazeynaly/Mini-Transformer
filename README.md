@@ -21,13 +21,13 @@ A lightweight implementation of the Transformer architecture (1–5M parameters)
 ## 📂 Project Structure
 
 mini-transformer/
-├─ data/ # scripts for dataset download / preprocessing
+├─ data/ # scripts for dataset download/preprocessing
 ├─ tokenizer/ # train or load BPE tokenizer
 ├─ src/
 │ ├─ model.py # Mini-Transformer architecture
 │ ├─ train_lm.py # training script for language modeling
 │ ├─ train_clf.py # training script for classification
-│ └─ infer.py # inference / demo script
+│ └─ infer.py # inference/demo script
 ├─ notebooks/ # demo Jupyter notebooks
 ├─ tests/ # simple unit tests
 └─ README.md # project documentation
