@@ -4,7 +4,7 @@ A lightweight implementation of the Transformer architecture (1–5M parameters)
 - **Language Modeling (LM)**: next-token prediction with Perplexity evaluation  
 - **Text Classification (CLF)**: sequence classification (e.g., sentiment analysis)
 
-> **Goal:** Build a small, interpretable, and efficient Transformer model that can run on standard GPU/CPU hardware, with clean code and reproducible results.
+ **Goal:** Build a small, interpretable, and efficient Transformer model that can run on standard GPU/CPU hardware, with clean code and reproducible results.
 
 ---
 
