@@ -21,8 +21,8 @@ A lightweight implementation of the Transformer architecture (1–5M parameters)
 ## 📂 Project Structure
 
 mini-transformer/
-├─ data/ 
-├─ tokenizer/ 
+├─ data
+├─ tokenizer
 ├─ src/
 │ ├─ model.py 
 │ ├─ train_lm.py 
