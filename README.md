@@ -8,7 +8,7 @@ A lightweight implementation of the Transformer architecture (1–5M parameters)
 
 ---
 
-## ✨ Features
+##  Features
 - Shared architecture with two output heads (`task="lm"` or `task="clf"`)  
 - Compact design: 2–4 Transformer blocks, 128–256 hidden dimension, 2–4 attention heads  
 - Supports BPE/SentencePiece tokenization (8k–16k vocabulary)  
@@ -18,7 +18,7 @@ A lightweight implementation of the Transformer architecture (1–5M parameters)
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 mini-transformer/
 ├─ data
